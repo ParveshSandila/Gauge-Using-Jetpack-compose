@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
                     contentAlignment = Alignment.Center
                 ) {
                     CustomGauge(
-                        modifier = Modifier.size(300.dp),
+                        modifier = Modifier.size(280.dp),
                         percentage = 30f
                     )
                 }
